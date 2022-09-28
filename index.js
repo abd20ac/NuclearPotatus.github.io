@@ -27,14 +27,14 @@ function game(playerChoose) {
             case 1:
                 switch (playerChoose) {
                     case 'r':
-                        document.getElementById('cout').innerHTML = 'Computer chose rock. DRAW'
+                        document.getElementById('cout').innerHTML = 'Computer chose cock. DRAW'
                         break;
                     case 's':
-                        document.getElementById('cout').innerHTML = 'Computer chose rock. YOU LOST'
+                        document.getElementById('cout').innerHTML = 'Computer chose cock. YOU LOST'
                         computerscore++;
                         break;
                     case 'p':
-                        document.getElementById('cout').innerHTML = 'Computer chose rock. YOU WIN'
+                        document.getElementById('cout').innerHTML = 'Computer chose cock. YOU WIN'
                         playerscore++;
                         break;
                     default:
