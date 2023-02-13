@@ -1,5 +1,5 @@
 # NuclearPotatus.github.io
-Just a website bini dini 
+Just a website for my garndma
 Forked from /nuclearpotatus.github.io
 
-Thanks to **WilliamPlays0402** for his help.
+Thanks to **abd20ac** for his help.
